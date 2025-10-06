@@ -1,2 +1,7 @@
 "Hello Git!" 
+<<<<<<< HEAD
 Hello from main branch!
+=======
+"Hello World"
+Hello from feature branch!
+>>>>>>> 5c16e0c75d9e3e92eccada410c4b822159f91497
